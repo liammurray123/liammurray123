@@ -29,4 +29,3 @@ My name is Liam Murray, I am a 14 year old web and flutter developer, from Vanco
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ![Liam's github stats](https://github-readme-stats.vercel.app/api?username=liammurray123&show_icons=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liammurray123)](https://github.com/anuraghazra/github-readme-stats)
